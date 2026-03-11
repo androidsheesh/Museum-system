@@ -815,10 +815,7 @@ tr:hover td {
     box-shadow: var(--shadow-gold);
 }
 
-.stat-card-icon {
-    font-size: 1.8rem;
-    margin-bottom: var(--space-sm);
-}
+
 
 .stat-card-value {
     font-family: var(--font-heading);
@@ -1060,10 +1057,6 @@ tr:hover td {
     transform: translateY(-4px);
 }
 
-.feature-icon {
-    font-size: 2.5rem;
-    margin-bottom: var(--space-md);
-}
 
 .feature-card h3 {
     font-size: 1.1rem;

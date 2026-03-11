@@ -111,22 +111,22 @@ require_once 'includes/header.php';
         </div>
         <div class="features-grid">
             <div class="feature-card reveal">
-                <div class="feature-icon">🔒</div>
+            
                 <h3>Authenticated</h3>
                 <p>Every artifact undergoes rigorous expert verification before listing.</p>
             </div>
             <div class="feature-card reveal">
-                <div class="feature-icon">🌍</div>
+               
                 <h3>Global Reach</h3>
                 <p>Connect with collectors and sellers from every continent.</p>
             </div>
             <div class="feature-card reveal">
-                <div class="feature-icon">⚡</div>
+               
                 <h3>Real-time Bidding</h3>
                 <p>Live countdown timers and instant bid updates keep you in the action.</p>
             </div>
             <div class="feature-card reveal">
-                <div class="feature-icon">🛡️</div>
+            
                 <h3>Secure Transactions</h3>
                 <p>Protected payments and dispute resolution for buyer and seller confidence.</p>
             </div>
